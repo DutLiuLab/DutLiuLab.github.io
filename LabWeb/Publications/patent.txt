@@ -1,0 +1,21 @@
+Liu Bin, Zhang Song. "A Method for Automatic Alignment of Curved Bone Fractures and Pre-bending Modeling of Internal Fixation Plates." China Patent Application. No. CN109035311A, filed 11 Jul 2018.
+Liu Bin, Wu Qianwen, Li Meisi, Zhang Jingyi. "An Automatic Segmentation Method for Serialized Visual Human Slice Images." China Patent Application. No. CN108986109A, filed 27 Jun 2018.
+Liu Bin, Fu Chuanbo, Zhang Hongyuan, Zhang Yifan. "Automatic Segmentation Method for Serialized Visual Human Slice Images Based on Spectral Analysis and Skeleton Smear." China Patent Application. No. CN108986107A, filed 15 Jun 2018.
+Liu Bin, Wang Mingzhe. "An Automatic Segmentation and Stitching Method for Cultural Relic Fragment Models." China Patent Application. No. CN108961429A, filed 8 Jun 2018.
+Liu Bin, Liu Wenpeng, Zhang Song, Wang Mingzhe, Zhang Xiaohui, Yang Yiqian. "A Method for Aligning Broken Bone Sections and Broken Bone Models Based on Maximum Common Subgraphs and Surrounding Boxes." China Patent Application. No. CN107316327A, filed 5 Jul 2017.
+Liu Bin, Zhang Song, Liu Wenpeng, Wang Mingzhe, Zhang Xiaohui, Yang Yiqian. "Fully Automated Fracture Plate Model Personalized Reconstruction Method." China Patent Application. No. CN107330281A, filed 5 Jul 2017.
+Liu Bin, Lu Yi, Zhang Song, Zhang Xiaohui, Yang Yiqian. "A Projectile Ballistic Trajectory Measurement System Based on Network Integration and Binocular Vision Technology." China Patent Application. No. CN107256082A, filed 11 May 2017.
+Liu Bin, Hu Junxing,Qiu Pengpeng. "An Automatic Splicing Method for Fragments of Cultural Relics."China Patent Application. No. CN107248142A, filed 11 May 2017.
+Jia Qi, Xu Xiujuan, Xu Zhenzhen, Zhao Xiaowei, Wang Qian, Wang Yuxin, Liu Bin. "" China Patent Application. No. CN106097350A, filed 15 Jun 2016.
+Liu Bin, Zhang Song, Shu Boqiao. "Segmentation of Broken Bone Sections and Alignment of Broken Bone Models Based on Principal Vector Analysis." China Patent Application. No. CN105869149A, filed 24 Mar 2016.
+Liu Bin, Wang Chao, Zhu Lin. "A Serialized Automatic Segmentation Method for Virtual Human Super-Slice Images." China Patent Application. No. CN105741289A, filed 29 Jan 2016.
+Liu Bin, Jiang Qifeng, Huang Rui, Liu Wenpeng. "A Method of Cerebral Vascular Image Segmentation Based on Multi-angle Serialized Image Space Feature Point Set." China Patent Application. No. CN105005998A, filed 5 Aug 2015.
+Liu Bin, Hao Lingling, Chen Qianru, Jing Xiaotong, Zhu Chen, Jiang Qianfeng. "An Automatic Segmentation Method for DSA Cerebrovascular Images Based on Adjacent Image Feature Point Sets." China Patent Application. No. CN104504708A, filed 26 Dec 2014.
+Liu Bin, Zhang Hui. "Acetabular Tissue Model Reconstruction Method for Serialized Hip CT Images." China Patent Application. No. CN104091365A, filed 12 Jul 2014.
+Liu Bin, Zhang Binbin, Wang Chao, Pei Yu, Ma YuBo. "A Throwing Training Performance Detection Method Based on Real-Time Video Images." China Patent Application. No. CN104102835A, filed 11 Jul 2014.
+Jia Qi, Fan Xin, Luo Zhongxuan, Liu Yu, Xu Xiujuan, Hu Yankang, Liu Bin. "A Shape Matching Method Based on Projection Invariance." China Patent Application. No. CN103914690A, filed 11 Apr 2014.
+Liu Bin, Tian Bo, Fan Yuhui, Wang Meng. "A Serialized Segmentation Method for Visualizing Human Slice Images Based on Skeleton Corner Points." China Patent Application. No. CN104008547A, filed 28 May 2014.
+Liu Bin, Liu Zhaoliang, Zhao Xu. "A 3D Model Reconstruction Method for Femoral Head Surface for Personalized Design." China Patent Application. No. CN103198521A, filed 16 Apr 2013.
+Wang Yi, Fan Xin, Li Haojie, Luo Zhongxuan, Liu Bin. "A Gesture-Based Method for Interactive Input and Recognition of Chinese Characters" China Patent Application. No. CN103093196A, filed 14 Jan 2013.
+Liu Bin, Li Haojie, Jia Qi. "DSA Vascular Image Segmentation Method Based on SIFT Feature Point Clustering and Boolean Difference Operation." China Patent Application. No. ZL201310578640.6, filed 2013
+
